@@ -1,6 +1,6 @@
 # Sales-and-Shipping-Data-Dashboard
 
-Project Description: This project is a comprehensive Sales and Shipping Dashboard built using Microsoft Excel. The dashboard consolidates sales and shipping data into visual summaries, enabling key business insights and trend analysis. It incorporates various Excel tools such as pivot tables, charts, and mapping functions to track sales performance, shipping efficiency, and geographical distributions.
+**Project Description** : This project is a comprehensive Sales and Shipping Dashboard built using Microsoft Excel. The dashboard consolidates sales and shipping data into visual summaries, enabling key business insights and trend analysis. It incorporates various Excel tools such as pivot tables, charts, and mapping functions to track sales performance, shipping efficiency, and geographical distributions.
 
 The dashboard provides a detailed view of sales and shipping trends through interactive elements, making it easy to monitor KPIs (Key Performance Indicators), spot patterns, and make data-driven decisions.
 
@@ -19,4 +19,4 @@ The dashboard provides a detailed view of sales and shipping trends through inte
 * For deeper analysis, explore the individual pivot tables in the Sales Pivots, Shipping Pivots, and Map Pivots sheets.
 * Use the Dimension Tables to cross-reference or understand the relationship between different entities (e.g., products, regions).
 
-** Conclusion ** : This Excel-based solution helps businesses track sales performance and shipping efficiency, with easy-to-use, interactive visuals. The pivot tables and charts allow for quick insights into the most important operational metrics, aiding in effective decision-making.
+**Conclusion** : This Excel-based solution helps businesses track sales performance and shipping efficiency, with easy-to-use, interactive visuals. The pivot tables and charts allow for quick insights into the most important operational metrics, aiding in effective decision-making.
